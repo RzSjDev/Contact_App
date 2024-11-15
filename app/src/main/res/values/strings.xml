@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">بخرد</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="get_started_text">Get Started</string>
+    <string name="email_hint">ایمیل</string>
+    <string name="password_hint">رمز عبور</string>
+    <string name="login_text">ورود</string>
+    <string name="or_text">یا</string>
+    <string name="create_text">ایجاد حساب کاربری</string>
+    <string name="username_hint">نام کاربری</string>
+    <string name="post_title" />
+    <string name="save_button">Save</string>
+    <string name="signout">خروج</string>
+
+
+    <string name="row">ردیف</string>
+    <string name="Picture">تصویر</string>
+    <string name="FullName">نام و نام خانوادگی</string>
+    <string name="NationalCode">کد ملی</string>
+    <string name="search">جستجو</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">ایمیل</string>
+    <string name="prompt_password">رمز عبور</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">ثبت نام</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">بخرد</string>
+    <string name="nav_header_subtitle">https://www.bekhrad.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">خروج</string>
+    <string name="menu_home">صفحه اصلی</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="EmptyView">موردی یافت نشد</string>
+    <string name="MainPicture">عکس اصلی</string>
+</resources>

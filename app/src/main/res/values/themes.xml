@@ -1,0 +1,43 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.GridView_Example" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.MyApplication35435" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!--  Primary brand color.  -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!--  Secondary brand color.  -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/purple_200</item>
+        <!--  Status bar color.  -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!--  Customize your theme here.  -->
+    </style>
+
+    <style name="Theme.MyApplication35435.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.MyApplication35435.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.MyApplication35435.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Theme.GridView_Example" parent="Base.Theme.GridView_Example" />
+
+    <style name="Theme.GridView_Example.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.GridView_Example.AppBarOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="Theme.GridView_Example.PopupOverlay" parent="ThemeOverlay.AppCompat.Dark" />
+
+</resources>
+
